@@ -39,6 +39,6 @@ This project is licensed under the MIT License, check the license.md file for mo
 # Contact and Community
 For questions, suggestions, and bug reports please use the project's Github repository to help improve this project.
 - Github: https://github.com/NAU-OSS/networking-tools
-Issues and pull requests can be used to help contribute to the project and allow for an enjoyable experience.
+1. Issues and pull requests can be used to help contribute to the project and allow for an enjoyable experience.
 Additional community channels will be added as the project grows. 
 
