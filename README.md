@@ -2,7 +2,7 @@
 This is an open source project that helps users perform common networking tasks and better understand network communication. The project provides ways to learn/test/experiment with client and server computer network tactics.
 
 # Features
-- Tools for networking tasks]
+- Tools for networking tasks
 - Code for DNS lookup
 - ping utility tool
 - Proxy server code
@@ -38,7 +38,7 @@ This project is licensed under the MIT License, check the license.md file for mo
 
 # Contact and Community
 For questions, suggestions, and bug reports please use the project's Github repository to help improve this project.
-Github: https://github.com/NAU-OSS/networking-tools
+- Github: https://github.com/NAU-OSS/networking-tools
 Issues and pull requests can be used to help contribute to the project and allow for an enjoyable experience.
 Additional community channels will be added as the project grows. 
 
