@@ -18,7 +18,7 @@ Steps-
 
 # Running a network tool example
 1. running any code from this project requires gcc within the saved folder
-- gcc -Wall filename.c filename.h -o output\
+- gcc -Wall filename.c filename.h -o output
 2. run output
 - ./output
 
